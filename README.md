@@ -2,10 +2,14 @@
 
 List of Kata, Wasa and Randori for exercise
 
-# Why this ?
+## Why this ?
 
-Simple, I want to travel around globe and when there is free time, this kind of task would help me to shape thinking
+Travel around globe and when there is free time, this kind of task would help me to shape thinking.
+Also good resource for study and job interview prepare.  
 
-# List of Kata's
+## List of Kata's
 
- 
+ - Game of Life
+ - Quicksort
+ - Bublesort
+ - Binary search + insertsort
