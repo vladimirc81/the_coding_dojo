@@ -14,3 +14,10 @@ Also good resource for study and job interview preparation.
  - Bublesort
  - Binary search + insertsort
  - Linked list
+ - Bloom filter
+ - Simple editor
+ - Encryption app 
+ - CSV file parser
+ - Bus tracker
+ - Google map
+ - 
