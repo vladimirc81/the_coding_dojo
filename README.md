@@ -5,7 +5,7 @@ List of Kata, Wasa and Randori for exercise
 ## Why this ?
 
 Travel around globe and when there is free time, this kind of task would help me to shape thinking.
-Also good resource for study and job interview prepare.  
+Also good resource for study and job interview preparation.  
 
 ## List of Kata's
 
@@ -13,3 +13,4 @@ Also good resource for study and job interview prepare.
  - Quicksort
  - Bublesort
  - Binary search + insertsort
+ - Linked list
