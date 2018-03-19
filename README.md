@@ -15,6 +15,7 @@ Also good resource for study and job interview preparation.
  - Binary search + insertsort
  - Linked list
  - Bloom filter
+ - Dict/HashMap
  - Simple editor
  - Encryption app 
  - CSV file parser
